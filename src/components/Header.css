@@ -1,0 +1,9 @@
+.header {
+  background-image: url("../assets/profile-picture.JPG");
+  background-position: 50% 30%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 320px;
+  overflow: hidden;
+  width: 100%;
+}
