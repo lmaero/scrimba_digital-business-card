@@ -2,9 +2,16 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 10px;
+}
+
 body {
-  background-color: #23252C;
+  background-color: white;
   color: #FFFFFF;
+  display: flex;
   font-family: "Inter", sans-serif;
+  justify-content: center;
   margin: 0;
+  min-width: 320px;
 }
